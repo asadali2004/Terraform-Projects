@@ -24,3 +24,4 @@ override.tf.json
 # CLI configuration (if present)
 .terraformrc
 terraform.rc
+.gitignore
